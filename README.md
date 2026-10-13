@@ -1,14 +1,12 @@
 # FPGA I²C Sensor Interface & Precision Measurement Analysis
-### ECE 437: Digital Systems Laboratory — Lab 7
-**University of Illinois Urbana-Champaign**  
-**Authors:** Jason Osei-Tutu, Maan Abdelhamid  
+**University of Illinois Urbana-Champaign**   
 **Target Hardware:** Opal Kelly XEM7310-A75 (Xilinx Artix-7 `xc7a75tfgg484-1`), UIUC ECE 437 Sensor Board  
 
 ---
 
 ## 📖 Executive Summary
 
-This repository contains the complete FPGA hardware design, automated Python instrument control, and statistical analysis suite for **Lab 7: Noise, Averaging, and the Limits of Precision Measurement**. 
+This repository contains the complete FPGA hardware design, automated Python instrument control, and statistical analysis suite for **Noise, Averaging, and the Limits of Precision Measurement**. 
 
 The project encompasses two major engineering efforts:
 1. **FPGA Digital Design:** Developing a robust, multi-byte $\text{I}^2\text{C}$ master controller in Verilog to interface with an onboard **Analog Devices ADT7420** 16-bit temperature sensor over USB 3.0 via the Opal Kelly FrontPanel subsystem, featuring sub-microsecond diagnostic synchronization pulses via PMOD headers.
