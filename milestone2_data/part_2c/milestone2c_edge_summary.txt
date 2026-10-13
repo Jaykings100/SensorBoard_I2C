@@ -1,0 +1,10 @@
+Milestone 2c: I2C SDA Acknowledgment Edge Analysis
+================================================
+10-90% Rise Time  : 839.52 ns
+90-10% Fall Time  : 1.60 ns
+Ratio (Rise/Fall) : 526.0x
+V_10% Threshold   : 1.009 V
+V_90% Threshold   : 2.006 V
+Time Constant tau : 382.08 ns
+Bus Capacitance   : 38.21 pF
+Pull-up Resistor  : 10 kOhm (schematic R4-R7)

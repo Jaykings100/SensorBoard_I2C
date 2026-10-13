@@ -1,0 +1,4 @@
+configuration,freq_hz,amplitude_v,amplitude_mv
+ground_spring,60.0,8.567692e-05,0.0857
+long_wire_loop,60.0,9.645258e-05,0.0965
+ratio_loop_to_spring,-,-,1.13

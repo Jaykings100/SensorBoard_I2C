@@ -1,0 +1,41 @@
+# Documentation (user requested excluding /docs)
+docs/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+lab7_postlab.pdf
+
+# Vivado build products (bitfile/ is kept on purpose)
+build/
+*.jou
+*.log
+*.str
+.Xil/
+vivado_*.backup.*
+xsim.dir/
+*.pb
+xvlog.log
+xvlog.pb
+
+# Temp / tool cache
+.codex_tmp/
+tmpmi130rqa/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Simulation
+sim/xsim.dir/
+sim/*.wdb
+sim/*.vcd
+sim/*.pb
+sim/webtalk*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/

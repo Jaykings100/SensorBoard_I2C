@@ -1,0 +1,7 @@
+Fast 1000-reading wall time: 2.362766 s
+Fast single-reading standard deviation: 0.02687313 C
+Recorded averaging-law departure N: 2
+Slow 100-reading standard deviation (300 ms interval): 0.01661387 C
+Fast first-100 standard deviation: 0.00461593 C
+Slow/fast standard-deviation ratio: 3.599245998714072
+16-bit LSB: 0.0078125 C; nominal conversion time: 0.240 s
