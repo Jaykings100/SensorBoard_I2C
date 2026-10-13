@@ -1,5 +1,9 @@
 # FPGA I²C Sensor Interface & Precision Measurement Analysis
+<<<<<<< HEAD
 **University of Illinois Urbana-Champaign**   
+=======
+**University of Illinois Urbana-Champaign**  
+>>>>>>> b519f7393c2ccfc4d882481f7969173fccb7d60b
 **Target Hardware:** Opal Kelly XEM7310-A75 (Xilinx Artix-7 `xc7a75tfgg484-1`), UIUC ECE 437 Sensor Board  
 
 ---
