@@ -188,8 +188,3 @@ Expected output confirms that the FrontPanel USB link, PLL clocking, and $\text{
 
 ---
 
-## 📜 Authors & Acknowledgments
-
-- **Jason Osei-Tutu** — Department of Electrical and Computer Engineering, UIUC
-- **Maan Abdelhamid** — Department of Electrical and Computer Engineering, UIUC
-- **Course:** ECE 437: Digital Systems Laboratory, University of Illinois Urbana-Champaign
