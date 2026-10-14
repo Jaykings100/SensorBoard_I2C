@@ -1,4 +1,6 @@
-![Header Banner](assets/Sensor_Board_Layout.png)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=FPGA%20I²C%20Sensor%20Interface&fontSize=42&fontAlignY=38&desc=ECE%20437%20Lab%207%20%7C%20Xilinx%20Artix-7%20%7C%20UIUC&descAlignY=62&descAlign=50" width="100%"/>
+</p>
 # FPGA I²C Sensor Interface & Precision Measurement Analysis
 **University of Illinois Urbana-Champaign**    
 **Target Hardware:** Opal Kelly XEM7310-A75 (Xilinx Artix-7 `xc7a75tfgg484-1`), UIUC ECE 437 Sensor Board  
